@@ -1,0 +1,9 @@
+{
+  "name": "Tone_Down_the_Twang",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "Make bows less OP in at a higher skill level. ",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2202"
+  ]
+}
