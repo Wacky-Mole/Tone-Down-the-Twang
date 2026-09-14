@@ -2,6 +2,16 @@
 
 - Made by WackyMole
 
+<div style="text-align: center;">
+  <a href="https://www.survivalservers.com/services/game_servers/valheim/?ref=WackyMole">
+    <img
+      src="https://www.wackymole.com/hosts/WackySurvivalBanner.png"
+      alt="Valheim Server Hosting - Survival Servers"
+      style="display: inline-block; width: 768px; max-width: 100%; height: auto;">
+  </a>
+</div>
+
+
 This mod adjusts how bows scale with skill level in Valheim. Bows become extremely powerful at higher skill levels due to reduced draw time. This mod caps how fast you can draw, keeping things more balanced.
 
  What It Does
